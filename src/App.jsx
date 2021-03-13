@@ -1,6 +1,6 @@
+import './styles/global.scss';
+
 export function App() {
 
-    throw new error('Eita ')
-
-    return <h1>Hello too World</h1>
+    return <h1>Hello to my World</h1>
 }
